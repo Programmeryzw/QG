@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\administrator\source\repos\stack\stack\linkstack.h(69): warning C4715: “LinkStack<int>::front”: 不是所有的控件路径都返回值
+c:\users\administrator\source\repos\stack\stack\stack.h(65): warning C4715: “Stack<int>::front”: 不是所有的控件路径都返回值
+  Stack.vcxproj -> C:\Users\Administrator\source\repos\Stack\Debug\Stack.exe
