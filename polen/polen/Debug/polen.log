@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\vs\polen\polen\polen.h(61): warning C4715: “LinkStack<char>::front”: 不是所有的控件路径都返回值
+c:\vs\polen\polen\polen.h(61): warning C4715: “LinkStack<int>::front”: 不是所有的控件路径都返回值
+  polen.vcxproj -> C:\VS\polen\Debug\polen.exe
